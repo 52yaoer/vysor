@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="holo_blue">#FF33E5B5</color>
+
+    <color name="toast_bg">#c01b1b1b</color>
+    <color name="toast_text">#f7dcaf</color>
+
+    <!-- 深蓝色背景 -->
+    <color name="blue_bg_fragment">#0e7ac3</color>
+
+    <!-- 蓝色字体 -->
+    <color name="blue_text">#44a0c4</color>
+
+    <!-- 蓝色按下 -->
+    <color name="blue_dark">#4488c4</color>
+    <!-- 蓝色背景1 -->
+    <color name="blue_bg1">#e5f1f9</color>
+    <!-- 蓝色背景2 -->
+    <color name="blue_bg2">#f9fbfb</color>
+
+    <!-- 灰色线条 -->
+    <color name="grey_line">#c7c7c7</color>
+
+    <!-- 淡灰色线条 -->
+    <color name="grey_light">#f4f7fa</color>
+
+    <!-- 灰色字体 -->
+    <color name="grey_text">#999999</color>
+
+    <!-- 灰色条状背景 -->
+    <color name="grey_bar">#909195</color>
+
+    <!-- 透明 -->
+    <color name="transparent">#00000000</color>
+
+    <!-- ActionBar颜色 -->
+    <color name="actionbar">#3399CC</color>
+
+    <!-- 黑色 -->
+    <color name="black">#000000</color>
+
+    <!-- 白色 -->
+    <color name="white">#ffffff</color>
+
+    <!-- 橙 -->
+    <color name="orange">#f19149</color>
+    <!-- 褐 -->
+    <color name="brown">#996c33</color>
+
+    <!-- 黑绿 -->
+    <color name="green">#007130</color>
+
+    <!-- 忙碌红 -->
+    <color name="red_busy">#e35850</color>
+
+    <!-- 在线绿色 -->
+    <color name="green_online">#5fb41b</color>
+
+    <!-- 深黑绿 -->
+    <color name="green_pressed">#00561f</color>
+    <!-- 深黑绿 -->
+    <color name="green_disable">#99cc99</color>
+
+    <!-- 黄色 -->
+    <color name="yellow">#FFDD00</color>
+    <!-- 黄色按下 -->
+    <color name="yellow_pressed">#FFCC00</color>
+    <color name="result_other">#ffffcc</color>
+
+    <!-- PagerSlidingTrangleStrip按下去的颜色     白色    -->
+    <color name="background_tab_pressed">#F0F6F8</color>
+
+    <!-- tab_indicator_selected按下去的颜色         蓝色   -->
+    <color name="tab_indicator_selected">#428799</color>
+
+    <!-- tab_text_normal        GAO白色  -->
+    <color name="tab_text_normal">#FDFDFD</color>
+
+    <!-- tab_text_selected        GAO白色  -->
+    <color name="tab_text_selected">#FDFDFD</color>
+</resources>
